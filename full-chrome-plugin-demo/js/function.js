@@ -12,7 +12,7 @@ console.log("---脚本注入成功！---");
 //     type: "POST",
 //     url: "https://kdhrtrain.kingdee.com/lms/api/user/examactive/viewResult",
 //     beforeSend: function(request) {
-//         request.setRequestHeader("Authorization","eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlSWQiOiIwMDEsMmNhODgwODQ3MjZiM2U0NTAxNzI2ZWU0MTNiMzEwMjciLCJ1c2VySWQiOiIyYzkyNDhkNjZlNDU3NzljMDE2ZThmM2U0N2Y1MzdjZSIsImlhdCI6MTY0ODg3NDA3Mn0.C0KZyj_9jnuygSoiTu1rjVVFsa5CNWMy9chbd_lTF38");
+//         request.setRequestHeader("Authorization","***");
 //     },
 //     data: {id:ID},
 //     dataType: "json",
